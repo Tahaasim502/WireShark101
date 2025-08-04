@@ -10,8 +10,9 @@ Wireshark allows you to customize the packet list view by adding columns for any
 2. Select **Apply as Column**.
 3. The new column appears immediately in the packet list.
 
-![image.png](attachment:ff80727c-f8a7-4d19-a6cd-43cdc7403f52:3993dc83-cd66-49a4-b9e4-ffa26bf5f240.png)
+<img width="1366" height="716" alt="Screenshot (773)" src="https://github.com/user-attachments/assets/316c0a87-059a-4e0b-bd01-13aa5248d567" />
 
+<img width="1366" height="718" alt="Screenshot (772)" src="https://github.com/user-attachments/assets/42147c4e-36c8-4dc2-9584-641d484f87b6" />
 
 
 ---
@@ -25,9 +26,10 @@ Wireshark allows you to customize the packet list view by adding columns for any
 5. In the **Fields** box, enter the exact field name (e.g., `ip.src`, `tcp.dstport`).
 6. Click **OK** or **Apply** to save changes.
 
-![image.png](attachment:ff80727c-f8a7-4d19-a6cd-43cdc7403f52:3993dc83-cd66-49a4-b9e4-ffa26bf5f240.png)
+<img width="1366" height="714" alt="Screenshot (775)" src="https://github.com/user-attachments/assets/67f852d1-54e9-44ae-93b3-511ff84cdd9a" />
 
-![image.png](attachment:ff80727c-f8a7-4d19-a6cd-43cdc7403f52:3993dc83-cd66-49a4-b9e4-ffa26bf5f240.png)
+<img width="1366" height="720" alt="Screenshot (774)" src="https://github.com/user-attachments/assets/9f0f5917-6d00-4ae2-b822-42ac6d928b77" />
+
 
 ---
 
